@@ -54,3 +54,10 @@ Republican	1981	1987
 Democrat	1987	1995
 Republican	1995	2007
 Democrat	2007	2008
+
+Computer Generation	Start Generation	End Generation
+Pre-First Generation	1900	1940
+1st: Vacuum Tubes	1940	1960
+2nd: Transistors	1960	1964
+3rd: Integrated Circuits	1964	1975
+4th: Microprocessors	1975	2008
